@@ -1,26 +1,24 @@
-/* Styles for the container div */
-.container {
-    background-color: #f0f8ff;
+.s1 {
+    background-color:#000000;
+    border-radius: 15px;
     padding: 20px;
-    border: 1px solid #ccc;
-}
-
-/* Styles for the main title */
-#main-title {
-    color: #0056b3;
-    font-size: 36px;
+    margin-bottom: 20px;
+    border: 6px solid #ffffff;
+    max-width: 150px;
+    margin: 20px auto;
+    color: white;
     text-align: center;
+    width: 200px;
+    height: 175px;
+}
+.s1 ul {
+    text-align: left;
 }
 
-/* Styles for paragraphs */
-p {
-    font-family: Arial, sans-serif;
-    color: #333;
-    line-height: 1.6;
+.s1 h2 {
+    font-weight: bold;
 }
 
-/* Special styles for paragraphs with the highlight class */
-.highlight {
-    background-color: yellow;
-    padding: 10px;
+.s1 ol {
+    text-align: left;
 }
